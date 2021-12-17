@@ -1,0 +1,3 @@
+administer os2web_newsletter configuration:
+  title: 'Administer OS2Web Newsletter configuration'
+  restrict access: true

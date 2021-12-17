@@ -1,0 +1,20 @@
+langcode: da
+status: true
+dependencies: {  }
+id: os2web_newsletter
+label: 'OS2Web Newsletter'
+description: ''
+weight: 0
+storage: folder
+folder: modules/contrib/os2web_newsletter/config/optional
+module: {  }
+theme: {  }
+complete_list:
+  - 'os2web_newsletter.*'
+  - '*os2web_newsletter.*'
+  - '*os2web_newsletter'
+  - 'os2web_newsletter_*'
+  - '*os2web_newsletter_*'
+  - 'os2web_newsltr_*'
+  - '*os2web_newsltr_*'
+partial_list: {  }
