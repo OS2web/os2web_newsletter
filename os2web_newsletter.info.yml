@@ -3,7 +3,7 @@ type: module
 description: 'Newsletter handler'
 package: 'OS2Web'
 core: 8.x
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8 || ^9 || ^10
 dependencies:
   - anonymous_subscriptions
 configure: os2web_newsletter.settings_form
